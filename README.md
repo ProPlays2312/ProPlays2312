@@ -16,5 +16,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=ProPlays2312&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ProPlays2312&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ProPlays2312&label=Profile%20Visits&color=11&icon=2&pretty=true)]
 
