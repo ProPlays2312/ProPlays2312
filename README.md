@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **ProPlays2312/ProPlays2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://visitcount.itsvg.in/api?id=ProPlays2312&label=Profile%20Visits&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
