@@ -1,4 +1,5 @@
 # 💫 About Me:
+![](https://visitcount.itsvg.in/api?id=ProPlays2312&label=Profile%20Visits&color=11&icon=2&pretty=true)
 🔭 Currently Working At SeedHunt<br>👯 Looking To Collaborate On Back-end And Security Stuff<br>🤝 Looking To Work At Private Projects<br>🌱 Currently Learning Python<br>💬 Ask Me About Tech-related Stuff<br>⚡ Fun Fact - I Am Smart And Lazy Together
 
 
@@ -16,5 +17,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=ProPlays2312&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ProPlays2312&label=Profile%20Visits&color=11&icon=2&pretty=true)]
+
 
