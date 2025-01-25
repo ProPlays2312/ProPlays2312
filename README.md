@@ -14,14 +14,17 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ProPlays2312/ProPlays2312/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ProPlays2312/ProPlays2312/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ProPlays2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ProPlays2312&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProPlays2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ProPlays2312&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
