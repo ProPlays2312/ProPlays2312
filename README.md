@@ -1,7 +1,7 @@
 
 #
-<h3 align="left">Languages:</h3>
 <p align="center">
+  <h3 align="left">Languages:</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=go,py,rust,java" />
   </a>
