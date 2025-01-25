@@ -1,24 +1,21 @@
 
 #
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <h3 align="left">Languages:</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=go,py,rust,java" />
   </a>
 </p>
-<h3 align="left">DevOps:</h3>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,aws,azure,gcp" />
   </a>
 </p>
-<h3 align="left">OS:</h3>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=windows,linux,arch,debian,kali,ubuntu" />
   </a>
 </p>
-<h3 align="left">Others:</h3>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=cloudflare,nginx,supabase,firebase" />
